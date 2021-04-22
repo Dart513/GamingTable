@@ -1,0 +1,3 @@
+[submodule "controls/GPIOKeybind"]
+	path = controls/GPIOKeybind
+	url = https://github.com/Dart513/GPIOKeybind
