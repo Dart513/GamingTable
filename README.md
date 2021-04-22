@@ -9,7 +9,7 @@ The gaming table would have used GPIO buttons and analog inputs to control games
 
 ## Parts:
 - [RetroPie Settings](tbd)
-- [GPIO To EmulationStation Input](tbd)
+- [GPIO To EmulationStation Input](https://github.com/Dart513/GamingTable/blob/main/controls/CONTROLS.md)
 - [Table Design](tbd)
-- [PCB](tbd)
+- [PCB](https://github.com/Dart513/GamingTable/blob/main/pcb/PCB.md)
 - [Reaction Time Game](tbd)
